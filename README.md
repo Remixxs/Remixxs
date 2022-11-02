@@ -18,5 +18,5 @@ Sou estudante de Sistemas de Informação pela UFG.
 ##
   
 <div>
-  <a href="https://www.linkedin.com/in/gustavo-goulart-1479341ba/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/gustavogoul/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
